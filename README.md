@@ -14,3 +14,9 @@ Team member:
         丁*鑫(sirvenus)
         董*雷(lei08)
         朱*峰(zyf1234567)
+
+
+### UPDATE:
+
+xadmin 安装兼容django 2+的方式为：
+> pip install https://codeload.github.com/sshwsfc/xadmin/zip/django2
